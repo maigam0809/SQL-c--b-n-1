@@ -1,0 +1,9 @@
+INSERT INTO `tac_gia`(`ma_tac_gia`, `ten_tac_gia`) VALUES (1, 'Lê Liên');
+INSERT INTO `tac_gia`(`ma_tac_gia`, `ten_tac_gia`) VALUES (2, 'Hồng Gấm');
+INSERT INTO `tac_gia`(`ma_tac_gia`, `ten_tac_gia`) VALUES (3, 'Lương Tú');
+INSERT INTO `tac_gia`(`ma_tac_gia`, `ten_tac_gia`) VALUES (4, 'Tiến Đạt');
+INSERT INTO `tac_gia`(`ma_tac_gia`, `ten_tac_gia`) VALUES (5, 'Tiến Thiều');
+INSERT INTO `tac_gia`(`ma_tac_gia`, `ten_tac_gia`) VALUES (6, 'Quang  Duẩn');
+INSERT INTO `tac_gia`(`ma_tac_gia`, `ten_tac_gia`) VALUES (7, 'Mai Trang');
+INSERT INTO `tac_gia`(`ma_tac_gia`, `ten_tac_gia`) VALUES (8, 'Văn Đạo');
+INSERT INTO `tac_gia`(`ma_tac_gia`, `ten_tac_gia`) VALUES (9, 'Thị Ngoãn');

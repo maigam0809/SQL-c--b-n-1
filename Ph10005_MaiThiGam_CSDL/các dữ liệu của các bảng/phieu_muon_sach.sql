@@ -1,0 +1,12 @@
+INSERT INTO `phieu_muon_sach`(`ma_phieu`, `ngay_muon_sach`, `ngay_phai_tra`, `ma_sinh_vien`, `trang_thai`) VALUES (1, '2019-04-01', '2019-04-08', 1, 'chua tra');
+INSERT INTO `phieu_muon_sach`(`ma_phieu`, `ngay_muon_sach`, `ngay_phai_tra`, `ma_sinh_vien`, `trang_thai`) VALUES (2, '2018-03-01', '2018-03-08', 3, 'da tra');
+INSERT INTO `phieu_muon_sach`(`ma_phieu`, `ngay_muon_sach`, `ngay_phai_tra`, `ma_sinh_vien`, `trang_thai`) VALUES (3, '2019-05-02', '2019-05-09', 1, 'chua tra');
+INSERT INTO `phieu_muon_sach`(`ma_phieu`, `ngay_muon_sach`, `ngay_phai_tra`, `ma_sinh_vien`, `trang_thai`) VALUES (4, '2019-02-04', '2019-02-11', 5, 'da tra');
+INSERT INTO `phieu_muon_sach`(`ma_phieu`, `ngay_muon_sach`, `ngay_phai_tra`, `ma_sinh_vien`, `trang_thai`) VALUES (5, '2020-08-01', '2020-08-01', 2, 'chua tra');
+INSERT INTO `phieu_muon_sach`(`ma_phieu`, `ngay_muon_sach`, `ngay_phai_tra`, `ma_sinh_vien`, `trang_thai`) VALUES (6, '2017-01-03', '2017-01-04', 2, 'da tra');
+INSERT INTO `phieu_muon_sach`(`ma_phieu`, `ngay_muon_sach`, `ngay_phai_tra`, `ma_sinh_vien`, `trang_thai`) VALUES (7, '2017-01-07', '2017-01-15', 4, 'chua tra');
+INSERT INTO `phieu_muon_sach`(`ma_phieu`, `ngay_muon_sach`, `ngay_phai_tra`, `ma_sinh_vien`, `trang_thai`) VALUES (8, '2017-01-06', '2017-01-13', 2, 'da tra');
+INSERT INTO `phieu_muon_sach`(`ma_phieu`, `ngay_muon_sach`, `ngay_phai_tra`, `ma_sinh_vien`, `trang_thai`) VALUES (11, '2018-02-09', '2018-02-15', 5, 'da tra');
+INSERT INTO `phieu_muon_sach`(`ma_phieu`, `ngay_muon_sach`, `ngay_phai_tra`, `ma_sinh_vien`, `trang_thai`) VALUES (12, '2008-04-09', '2008-04-16', 4, 'da tra');
+INSERT INTO `phieu_muon_sach`(`ma_phieu`, `ngay_muon_sach`, `ngay_phai_tra`, `ma_sinh_vien`, `trang_thai`) VALUES (19, '2009-09-09', '2009-09-16', 4, 'chua tra');
+INSERT INTO `phieu_muon_sach`(`ma_phieu`, `ngay_muon_sach`, `ngay_phai_tra`, `ma_sinh_vien`, `trang_thai`) VALUES (20, '2017-04-05', '2017-04-12', 1, 'chua tra');
